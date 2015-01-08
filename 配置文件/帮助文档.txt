@@ -1,0 +1,18 @@
+
+
+
+---------------- 安装自定义zsh简单指南 --------------
+
+// 1.chsh -s /bin/zsh
+
+// 2.把oh-my-zsh文件保存到 "~/.oh-my-zsh" ( 文件夹不能复制 ，只能移动)
+
+// 3.在“~/”路径下执行：cp .oh-my-zsh/templates/zshrc.zsh-template ./.zshrc
+
+// 4.在不改变当前路径到情况下执行：source .zshrc
+
+// 5.希望你有个美好到zsh体验
+
+
+
+
